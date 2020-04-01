@@ -3,7 +3,7 @@
 namespace SDAssignment3Q4
 {
 
-    class DecimalToRoman
+    public class DecimalToRoman
     {
         static void Main(string[] args)
         {
